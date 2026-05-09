@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.bak
+*.bak[0-9]*
+*.log
+*.dll
+*.lib
+*.pyd
+.venv/
+venv/
+env/
+.env
+whisper_ptt_launcher.vbs
+models/
+.cache/
+.idea/
+.vscode/
